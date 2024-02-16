@@ -1,11 +1,12 @@
 # 💫 About Me:
 Hola, soy Osiel Hernández, un desarrollador front-end con pasión por crear experiencias de usuario agradables y funcionales.<br>
 Mi carrera en el desarrollo web comenzó con el aprendizaje básico de HTML, CSS y JavaScript, y desde entonces he continuado expandiendo mis habilidades y conocimientos en el campo de la tecnología web. <br>
-Mi rol como desarrollador front-end me permite trabajar en la parte visual y interactiva de las aplicaciones y sitios web, asegurándome de que los usuarios puedan acceder y navegar fácilmente en ellos. <br>
+Mi rol como desarrollador front-end me permite trabajar en la parte visual e interactiva de las aplicaciones y sitios web, asegurándome de que los usuarios puedan acceder y navegar fácilmente en ellos. <br>
 Mis responsabilidades incluyen:<br>
 * Diseño de interfaces de usuario (UI) y experiencias de usuario (UX),<br>
 * Creación de estilos y diseños responsivos,<br>
 * Optimización de rendimiento y accesibilidad,<br>
+
 Mi objetivo es continuar aprendiendo y mejorando mis habilidades, y mi pasión por la tecnología web me permite crear soluciones innovadoras y agradables para los usuarios.
 
 
